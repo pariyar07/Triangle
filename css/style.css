@@ -24,7 +24,7 @@ li {
 header {
   padding: 1rem;
   background-color: var(--primary-color);
-  color: #fff;
+  color: white;
 }
 
 header h1 {
